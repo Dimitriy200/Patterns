@@ -1,5 +1,5 @@
 
 
 public interface AbstractProductA{
-    void interact(AbstractProductB b);
+    public void interact(AbstractProductB b);
 }
