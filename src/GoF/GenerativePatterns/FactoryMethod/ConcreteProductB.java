@@ -1,5 +1,6 @@
 package FactoryMethod;
 
+
 public class ConcreteProductB implements Product{
 
     @Override
