@@ -3,9 +3,9 @@ package Builder;
 
 public class Product{
 
-    private String dough = "";
-    private String sauce = "";
-    private String topping = "";
+    protected String dough = "";
+    protected String sauce = "";
+    protected String topping = "";
 
 
     public void setDough(String dough){
