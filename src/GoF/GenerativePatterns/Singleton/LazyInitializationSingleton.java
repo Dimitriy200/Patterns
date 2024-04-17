@@ -2,7 +2,7 @@ package Singleton;
 
 
 public class LazyInitializationSingleton {
-    private static LazyInitializationSingleton INSTANCE;
+  private static LazyInitializationSingleton INSTANCE;
 
   private LazyInitializationSingleton() {}
 

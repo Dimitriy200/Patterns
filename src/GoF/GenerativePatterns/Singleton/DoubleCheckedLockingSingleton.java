@@ -1,5 +1,6 @@
 package Singleton;
 
+
 public class DoubleCheckedLockingSingleton {
     private static DoubleCheckedLockingSingleton INSTANCE;
 
