@@ -6,5 +6,6 @@ public class Client {
         Target target = new Adapter();
 
         Object ob = target.someMethod();
+        ob.getClass();
     }
 }
