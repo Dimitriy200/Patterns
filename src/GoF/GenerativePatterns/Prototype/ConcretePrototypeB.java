@@ -1,5 +1,4 @@
-package Prototype;
-
+package GoF.GenerativePatterns.Prototype;
 
 public class ConcretePrototypeB implements Prototype{
     

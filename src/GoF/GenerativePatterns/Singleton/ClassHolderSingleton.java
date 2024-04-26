@@ -1,4 +1,4 @@
-package Singleton;
+package GoF.GenerativePatterns.Singleton;
 
 
 public class ClassHolderSingleton {

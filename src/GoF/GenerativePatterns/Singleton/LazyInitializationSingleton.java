@@ -1,5 +1,4 @@
-package Singleton;
-
+package GoF.GenerativePatterns.Singleton;
 
 public class LazyInitializationSingleton {
   private static LazyInitializationSingleton INSTANCE;

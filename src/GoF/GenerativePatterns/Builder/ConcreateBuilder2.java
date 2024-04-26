@@ -1,4 +1,4 @@
-package Builder;
+package GoF.GenerativePatterns.Builder;
 
 
 public class ConcreateBuilder2 extends AbstactBuilder {

@@ -1,4 +1,4 @@
-package AbstractFactory;
+package GoF.GenerativePatterns.AbstractFactory;
 
 
 public class ProductA1 implements AbstractProductA {

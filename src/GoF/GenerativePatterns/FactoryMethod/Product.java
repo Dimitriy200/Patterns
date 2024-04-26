@@ -1,4 +1,4 @@
-package FactoryMethod;
+package GoF.GenerativePatterns.FactoryMethod;
 
 
 public interface Product {

@@ -1,5 +1,4 @@
-package Singleton;
-
+package GoF.GenerativePatterns.Singleton;
 
 public class SynchronizedAccessorSingleton {
     private static SynchronizedAccessorSingleton INSTANCE;
