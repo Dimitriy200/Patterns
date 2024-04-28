@@ -8,5 +8,7 @@ public class Client {
         concreteObservable.setInfo(1);
         concreteObservable.setInfo(2);
         concreteObservable.setInfo(3);
+
+        observer.notify();
     }
 }
