@@ -1,6 +1,6 @@
 package GoF.BehavioralPatterns.Visitor;
 
-public class Clear {
+public class Client {
     public static void main(String[] args) {
         Element elementA = new ConcreteElementA(100);
         Element elementB = new ConcreteElementB(200);
